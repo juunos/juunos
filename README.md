@@ -1,16 +1,15 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**juunos/juunos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![](https://komarev.com/ghpvc/?username=juunos&label=⠀⠀⠀𝜗ৎ⠀⠀⠀&style=plastic&color=ffcce6&base=1000) </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  
+  <img src="https://64.media.tumblr.com/205a6006a2fcc33c7a67889daee0875f/9ff6796d8db19ed5-ed/s250x400/3e36b9b0f13bd3888295484c796e25bb9cea5ea1.pnj">
+<div id="header" align="center">
+  ^_^
+</div>
+  
+<div id="header" align="center">
+  
+
