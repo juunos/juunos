@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  ![](https://komarev.com/ghpvc/?username=juunos&label=⠀⠀⠀𝜗ৎ⠀⠀⠀&style=plastic&color=ffcce6&base=1000) </div>
+  ![](https://komarev.com/ghpvc/?username=juunos&label=⠀⠀⠀𝜗ৎ⠀⠀⠀&style=plastic&color=ffcce6&base=1000) <img src="https://64.media.tumblr.com/518c260b24d58908e0b1ea433e70ee8b/7abebd50498642e8-67/s75x75_c1/2ecb1120a3a85a0282e17023e1d2017008468eb5.gifv"> </div>
 
 
 <div id="header" align="center">
